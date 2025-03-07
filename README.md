@@ -1,2 +1,2 @@
 # Javascript-Lecture
-Presesntation of javascript
+Presentation of javascript
