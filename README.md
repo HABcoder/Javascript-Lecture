@@ -1,9 +1,9 @@
 # Javascript-Lecture
-Presentation of javascript 
+Presentation of JavaScript 
 Basic topics 
-variables
+Variables (let, var, const)
 if else condition
 Loop
 Function
-DOM (DOCUMAENT OBJECT MODEL)
+DOM (DOCUMENT OBJECT MODEL)
 
